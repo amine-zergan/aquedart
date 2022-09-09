@@ -1,0 +1,14 @@
+name: service
+description: An empty aquedart application.
+version: 0.0.1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  aquedart: ^5.0.4
+  mime:
+
+dev_dependencies:
+  aquedart_test: ^3.0.0
+

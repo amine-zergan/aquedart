@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".packages": true,
+    "analysis_options.yaml": true,
+    "test": true,
+    "README.md": true
+  }
+}
